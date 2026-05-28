@@ -1,6 +1,6 @@
 target = 0
 total_revenue = 0
-avg_revenue = total_revenue / 7
+
 for i in range(8):
     revenue = int(input(f"Nhập doanh thu ngày {i}: "))
     total_revenue += revenue
